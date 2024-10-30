@@ -1,0 +1,6 @@
+{
+  "svelte.enable-ts-plugin": true,
+	"diagnostic.displayByAle": true,
+	"signature.target": "echo",
+	"preferences.hoverTarget": "echo"
+}
